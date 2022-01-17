@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@gmod/vcf": "^5.0.5"
+  }
+}
